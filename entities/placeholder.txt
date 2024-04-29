@@ -1,0 +1,2 @@
+Bit of a redundant folder as the only entity we will have will be the player camera
+but probably good practice anyways 

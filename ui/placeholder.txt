@@ -1,0 +1,4 @@
+This folder will hold the theming for the project:
+	- font files
+	- theme defaults
+	- assets for menus
